@@ -1,0 +1,18 @@
+/* .container {
+    color: red;
+    font-size: 25px;
+    text-align: center; 
+    border-style: solid;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 25px;
+    background-color:yellow;
+
+} */
+
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom: 20px;
+}
